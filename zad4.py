@@ -5,4 +5,4 @@ for x in range(len(napis)):
     if napis[x] == 'a' or napis[x] == 'A':
         k += 1
 
-print(k)
+print("Ilosc liter 'a' w napisie: ", k)
